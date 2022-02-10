@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@openzeppelin/cli": "^2.8.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0"
+  }
+}
